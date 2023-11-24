@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&family=Kulim+Park:ital,wght@0,200;0,400;1,600&family=Modak&display=swap");
+
+* {
+    background-image: none;
+}
+
+body {
+    height: 100vh;
+    background-color: #863cfd;
+}
+  
+h1 {
+    width: 60%;
+    font-family: "Krona One";
+    font-size: 90px;
+    color: #7fff58;
+    text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+}
+
+.silver {
+/* position: absolute; */
+width: 800px;
+}
+
+
+

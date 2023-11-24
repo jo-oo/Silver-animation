@@ -1,0 +1,19 @@
+# Build files
+dist/
+build/
+
+# Dependency directories
+bower_components/
+
+# Compiled files
+*.min.js
+*.min.css
+
+# Logs
+logs
+*.log
+*.local
+
+# macOS-generated files
+.DS_Store
+
